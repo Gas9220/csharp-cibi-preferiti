@@ -9,3 +9,6 @@ for (int i = 0; i < foods.Length; i++)
 {
     Console.WriteLine($"{i + 1}° {foods[i]}"); 
 }
+
+// Top food
+Console.WriteLine($"My top food is {foods[0]}");
