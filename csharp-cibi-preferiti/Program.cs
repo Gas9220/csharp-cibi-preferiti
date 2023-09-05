@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Inizializzo l'array di cibi
+string[] foods = { "Banana", "Pasta", "Coconut", "Pizza", "Tofu", "Lentils", "Potatoes" };
