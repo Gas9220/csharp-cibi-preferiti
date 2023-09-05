@@ -1,6 +1,4 @@
 ﻿// Inizializzo l'array di cibi
-using System;
-
 string[] foods = { "Banana", "Pasta", "Coconut", "Pizza", "Tofu", "Lentils", "Tomatoes", "Orange" };
 
 // Lenght of the array
