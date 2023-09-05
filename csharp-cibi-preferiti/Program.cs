@@ -1,4 +1,6 @@
 ﻿// Inizializzo l'array di cibi
+using System;
+
 string[] foods = { "Banana", "Pasta", "Coconut", "Pizza", "Tofu", "Lentils", "Tomatoes", "Orange" };
 
 // Lenght of the array
@@ -22,10 +24,10 @@ if ( foods.Length % 2 != 0)
     string middleElement = foods[foods.Length / 2];
     Console.Write("Foods lenght is odd - ");
     Console.WriteLine($"The middle element is {middleElement}");
-} else
+} else // If foods array lenght is even
 {
     string middleElement1 = foods[foods.Length / 2];
     string middleElement2 = foods[foods.Length / 2 - 1];
-    Console.Write("Foods lenght is odd - ");
+    Console.Write("Foods lenght is even - ");
     Console.WriteLine($"The two middle elements are {middleElement1}, {middleElement2}");
 }
