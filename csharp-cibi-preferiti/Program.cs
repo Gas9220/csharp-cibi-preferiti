@@ -12,3 +12,6 @@ for (int i = 0; i < foods.Length; i++)
 
 // Top food
 Console.WriteLine($"My top food is {foods[0]}");
+
+// Last food
+Console.WriteLine($"My last top food is {foods[6]}");
