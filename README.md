@@ -11,6 +11,7 @@ Una volta dichiarato l’array di cibi preferiti, stampate a video le seguenti i
 - La vostra classifica (dunque stampare l’intero array in ordine indicando la posizione in classifica)
 - Il vostro cibo top (prima posizione della classifica)
 - Il vostro cibo preferito ma non troppo (ultima posizione della classifica)
+
 Le modalità di consegna sono le solite: repo GitHub, commit e push
 
 - BONUS
