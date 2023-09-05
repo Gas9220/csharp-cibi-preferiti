@@ -3,3 +3,9 @@ string[] foods = { "Banana", "Pasta", "Coconut", "Pizza", "Tofu", "Lentils", "Po
 
 // Lenght of the array
 Console.WriteLine($"There are {foods.Length} foods on the array");
+
+// Print all foods
+for (int i = 0; i < foods.Length; i++)
+{
+    Console.WriteLine($"{i + 1}° {foods[i]}"); 
+}
